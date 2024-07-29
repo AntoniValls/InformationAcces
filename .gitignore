@@ -1,2 +1,5 @@
 /DBPL/
 /email-EU-core/
+/.venv/
+*/.ipynb_checkpoints/*
+*/__pycache__/*

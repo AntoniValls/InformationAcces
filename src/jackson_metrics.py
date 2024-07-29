@@ -1,21 +1,9 @@
-# ---
-# jupyter:
-#   jupytext:
-#     formats: ipynb,py:light
-#     text_representation:
-#       extension: .py
-#       format_name: light
-#       format_version: '1.5'
-#       jupytext_version: 1.16.3
-#   kernelspec:
-#     display_name: Python 3 (ipykernel)
-#     language: python
-#     name: python3
-# ---
-
-# +
 import numpy as np
 import networkx as nx
+
+'''
+Script about the centrality mesures from Jackson et. al. 2020
+'''
 
 def decay_centrality(G, p, T):
 
