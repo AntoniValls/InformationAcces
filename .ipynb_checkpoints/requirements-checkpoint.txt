@@ -1,9 +1,0 @@
-jupyterlab
-pandas
-numpy
-networkx
-jupytext
-matplotlib
-scipy
-cmocean
-tqdm
