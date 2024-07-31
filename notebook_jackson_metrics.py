@@ -67,7 +67,6 @@ import matplotlib.pyplot as plt
 from src.utils import plot_graph
 import random
 
-
 G = nx.barabasi_albert_graph(50, 2)
 
 # add random weights

@@ -6,3 +6,4 @@ jupytext
 matplotlib
 scipy
 cmocean
+tqdm
